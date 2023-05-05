@@ -1,0 +1,34 @@
+[
+{
+    "imageUrl": "https://haircutinspiration.com/wp-content/uploads/2022/05/shadow-fade-16-9.jpg"  ,
+    "name":"Flow Haircut" ,
+    "price":15,
+    "description":"A flow is all about volume and movement. It adds an effortless and relaxed feel to your look. To get it, your locks should be layered cut so that they remain airy and structured. In case your hair naturally does not have enough volume, you may want to employ a hair dryer after the shower."
+    
+},
+{
+    "imageUrl": "https://haircutinspiration.com/wp-content/uploads/Drop-Fade-Haircut-16-9.jpg"  ,
+    "name":"fresh cut" ,
+    "price":100,
+    "description":"A flow is all about volume and movement."
+    
+},
+
+{
+    "imageUrl": "https://haircutinspiration.com/wp-content/uploads/curly-high-fade-16-9.jpg"  ,
+    "name":"curly fade" ,
+    "price":50,
+    "description":" It adds an effortless and relaxed feel to your look. To get it, your locks should be layered cut so that they remain airy and structured. In case your hair naturally does not have enough volume, you may want to employ a hair dryer after the shower."
+   
+},
+
+{
+    "imageUrl": "https://haircutinspiration.com/wp-content/uploads/2016/05/Buzz-Cut.jpg"  ,
+    "name":"militery cut" ,
+    "price":70,
+    "description":" To get it, your locks should be layered cut so that they remain airy and structured. In case your hair naturally does not have enough volume, you may want to employ a hair dryer after the shower."
+    
+}
+
+
+]
